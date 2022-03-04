@@ -1,13 +1,7 @@
-from unicodedata import name
 from wsgiref import headers
-import pandas as pd
 import requests
 import config 
 from load import LoadPipeline
-
-
-
-from pprint import pprint as pp
 
 apiKey = config.api_key
 
@@ -93,3 +87,5 @@ L.insert(name, symbols, platform, token_address)
 
 print("...Done!")
 
+print("Getting Table")
+L.get_table()
