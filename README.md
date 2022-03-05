@@ -6,4 +6,4 @@ Learning bit by bit how to extract, transforrm and load into a database data fro
 This time I used SQLite and an API from CoinMarketCap to create a database of unique tokens and have some basic and not
 extensive infor about each coin
 
-### [Here is what my thought process and how I did this!](https://medium.com/@obedlaws_logs/3-3-22-extracting-transforming-and-loading-42e104eac3b3)
+### [Here is my log for this project](https://medium.com/@obedlaws_logs/3-3-22-extracting-transforming-and-loading-42e104eac3b3)
